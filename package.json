@@ -1,0 +1,25 @@
+{
+  "name": "deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilbertVirgo/deploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilbertVirgo/deploy/issues"
+  },
+  "homepage": "https://github.com/gilbertVirgo/deploy#readme",
+  "dependencies": {
+    "node-flag": "^1.5.1",
+    "simple-ssh": "^1.0.0",
+    "untildify": "^4.0.0"
+  }
+}
